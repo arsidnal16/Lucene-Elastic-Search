@@ -1,3 +1,7 @@
+The data can be found here http://www.search-engines-book.com/collections/
+
+
+
 1. HW4. java is the source code for indexing and retrieval using lucene. To plot the graph uncomment the method plotchart(entry.getKey(), entry.getValue()).
 
 2. SortedSid.txt is the sorted (by frequency) list of (term, term_freq pairs)
